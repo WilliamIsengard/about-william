@@ -2,3 +2,30 @@ body {
 	background-color: rgb(60, 166, 242);
 	font: helvetica;
 }
+
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+.subTitle1 {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	color: crimson;
+}
+
+.subTitle2 {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	color: forestgreen;
+}
+
+.subTitle3 {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	color: turquoise;
+}
