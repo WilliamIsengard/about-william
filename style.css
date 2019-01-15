@@ -1,7 +1,6 @@
 body {
-	background-color: rgb(60, 166, 242);
-	font: helvetica;
-}
+	background-color:hotpink;
+	font-family:Helvetica, Arial, sans-serif}
 
 .center {
 	width: 100%;
@@ -10,5 +9,5 @@ body {
 }
 
 .subTitle {
-	color: firebrick;
+	color: greenyellow;
 }
